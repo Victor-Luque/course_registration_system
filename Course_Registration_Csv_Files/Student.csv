@@ -1,0 +1,101 @@
+G_Number,Last_Name,First_Name,Street_Num,Street_Name,City,STATE,Zip,SSN,Major_Code
+G80994432,Campbell,Kendall,2884,University Dr,Arlington,VA,22030,427450024,CHEM
+G80520541,Scott,Cody,3023,George Mason Blvd,Arlington,VA,22030,500404050,SOCY
+G69586408,Brown,Taylor,4013,University Dr,Arlington,VA,22030,110288532,ECON
+G83322119,Torres,Remy,8521,University Dr,Arlington,VA,22030,588399532,ACCT
+G61588473,Lewis,Dylan,147,Braddock Rd,Alexandria,VA,22030,487153979,ACCT
+G48997789,Thompson,Oakley,3232,Patriot Cir,Alexandria,VA,22201,625755850,ACCT
+G98277885,Jackson,Emerson,1559,George Mason Blvd,Alexandria,VA,22201,013035181,BIOL
+G18401282,Roberts,Oakley,9817,Braddock Rd,Alexandria,VA,22201,793184928,CSCI
+G70386736,Baker,Blake,569,Patriot Cir,Fairfax,VA,22201,599050280,CHEM
+G95894301,Jackson,Bella,3321,Braddock Rd,Fairfax,VA,22030,305642277,CSCI
+G45530744,Wright,Marley,2131,Braddock Rd,Alexandria,VA,22201,751726245,BIOL
+G32382171,Wilson,Logan,7206,University Dr,Arlington,VA,22314,241003882,PSYC
+G14501116,Young,Avery,3156,University Dr,Fairfax,VA,22201,144764740,BIOL
+G45328638,Davis,Peyton,5898,George Mason Blvd,Arlington,VA,22314,873155420,MATH
+G27649708,Scott,Reese,4314,Braddock Rd,Alexandria,VA,22201,037229181,CSCI
+G72282618,Robinson,Dylan,1849,Patriot Cir,Fairfax,VA,22201,853780990,ANTH
+G78240955,White,Morgan,5759,University Dr,Fairfax,VA,22030,352627956,ACCT
+G32427399,Clark,Hayden,7137,George Mason Blvd,Arlington,VA,22201,398059774,BIOL
+G44572894,Davis,Taylor,6389,University Dr,Arlington,VA,22030,898330683,ANTH
+G86163408,Torres,Brooke,9744,Patriot Cir,Arlington,VA,22314,263511561,PSYC
+G88361957,Harris,Kai,2570,Braddock Rd,Arlington,VA,22314,849601775,ECON
+G71498306,Wilson,Dakota,3023,Patriot Cir,Fairfax,VA,22030,101325527,ECON
+G25655275,White,Harlow,6645,Patriot Cir,Arlington,VA,22314,934879031,CHEM
+G22103494,Wright,Dylan,5358,George Mason Blvd,Fairfax,VA,22030,056367921,PSYC
+G69044130,Jones,Blake,1331,George Mason Blvd,Alexandria,VA,22314,861396295,SOCY
+G35920668,Robinson,Jesse,5782,University Dr,Alexandria,VA,22314,953811035,ANTH
+G87403238,Lee,Brooke,6653,Braddock Rd,Arlington,VA,22030,633225860,BIOL
+G41424784,King,Kendall,3220,University Dr,Fairfax,VA,22314,101088012,MIS
+G35850958,Davis,Skyler,9328,Patriot Cir,Alexandria,VA,22030,807828044,PSYC
+G55894088,Adams,Alex,5120,University Dr,Fairfax,VA,22314,189846684,ECON
+G26392534,King,Eli,4954,Braddock Rd,Alexandria,VA,22314,339229729,SOCY
+G88005387,Roberts,Harper,6912,George Mason Blvd,Fairfax,VA,22201,622142886,CHEM
+G64776619,Lewis,Finley,3213,Braddock Rd,Alexandria,VA,22314,609417303,CHEM
+G14194903,Harris,Sawyer,4448,Patriot Cir,Alexandria,VA,22030,782247048,CSCI
+G50940106,Jackson,Casey,9541,Braddock Rd,Fairfax,VA,22314,190187505,BIOL
+G41480050,Miller,Jordan,6449,Patriot Cir,Arlington,VA,22201,404302191,CHEM
+G93944337,Lopez,Brooke,6568,Patriot Cir,Arlington,VA,22314,673058330,CHEM
+G68049801,Smith,Teagan,3304,George Mason Blvd,Alexandria,VA,22030,607288625,ANTH
+G56936355,Anderson,Juniper,911,Braddock Rd,Alexandria,VA,22314,195990459,ACCT
+G71702705,Adams,Avery,56,Patriot Cir,Arlington,VA,22201,364152562,CSCI
+G84203443,Jones,Drew,2082,Braddock Rd,Alexandria,VA,22314,830610689,ECON
+G97825375,Martinez,Lex,281,Patriot Cir,Arlington,VA,22314,077325943,MIS
+G31434817,Sanchez,Chase,3166,George Mason Blvd,Arlington,VA,22314,244770518,SOCY
+G47546104,Anderson,Dylan,6738,George Mason Blvd,Arlington,VA,22201,261325251,ECON
+G13332482,Jackson,Jesse,9694,Patriot Cir,Arlington,VA,22030,877124676,BIOL
+G65122062,Thomas,Rowan,1942,University Dr,Alexandria,VA,22314,245311092,CSCI
+G49870859,Taylor,Harper,3174,Braddock Rd,Alexandria,VA,22314,034097111,MATH
+G12999477,Young,Emery,9477,George Mason Blvd,Arlington,VA,22314,257989104,BIOL
+G50250005,Phillips,Riley,7956,Braddock Rd,Arlington,VA,22314,388435546,MATH
+G94975447,Rodriguez,Skyler,4598,University Dr,Arlington,VA,22201,434597217,MIS
+G96872434,Johnson,Marley,4869,George Mason Blvd,Fairfax,VA,22030,162635867,ECON
+G55649010,Thomas,Taylor,9866,Braddock Rd,Alexandria,VA,22201,739270808,ANTH
+G89540613,Clark,Rowan,4237,George Mason Blvd,Alexandria,VA,22314,122041798,ACCT
+G21312748,Jackson,Juniper,5181,Patriot Cir,Alexandria,VA,22314,069397182,ECON
+G34782234,Jones,Bella,8813,Braddock Rd,Alexandria,VA,22314,921362088,ACCT
+G39127656,Mitchell,Riley,4362,Patriot Cir,Arlington,VA,22030,813519881,MATH
+G21233082,Evans,Finley,3598,George Mason Blvd,Fairfax,VA,22030,136294868,ECON
+G49750026,Hall,Remy,5613,Patriot Cir,Fairfax,VA,22314,607573766,CSCI
+G96465805,Carter,Quinn,8864,Patriot Cir,Fairfax,VA,22201,902106476,CSCI
+G96015855,Scott,Logan,6186,Patriot Cir,Fairfax,VA,22030,200004959,CHEM
+G22355502,Williams,Finley,9413,George Mason Blvd,Fairfax,VA,22030,253938440,CHEM
+G69384799,Davis,Casey,8906,University Dr,Alexandria,VA,22201,967626413,BIOL
+G35444744,Taylor,Bella,6348,Patriot Cir,Arlington,VA,22030,704377204,SOCY
+G78290444,Green,Jesse,702,University Dr,Alexandria,VA,22030,266747774,ECON
+G19765137,Walker,Emery,916,Braddock Rd,Alexandria,VA,22201,901205826,SOCY
+G52413377,King,Remy,777,Patriot Cir,Arlington,VA,22201,699021851,ECON
+G97296930,Lewis,Harlow,7411,Braddock Rd,Fairfax,VA,22201,005624486,CHEM
+G27486194,Allen,Peyton,9751,George Mason Blvd,Arlington,VA,22030,319442629,ECON
+G71553588,Lewis,Devon,1135,George Mason Blvd,Arlington,VA,22201,179975025,MIS
+G22209025,Robinson,Eli,2411,University Dr,Fairfax,VA,22201,725923842,PSYC
+G13241379,Taylor,Dylan,8549,George Mason Blvd,Alexandria,VA,22314,304099835,MIS
+G23225342,Perez,Emerson,8415,Braddock Rd,Fairfax,VA,22314,250357887,ACCT
+G30311145,Young,Dylan,4456,Braddock Rd,Alexandria,VA,22314,123592607,SOCY
+G88973922,Baker,Logan,5536,Braddock Rd,Arlington,VA,22314,291244144,CHEM
+G71645475,King,Logan,5426,University Dr,Fairfax,VA,22201,274434194,CHEM
+G29651215,Sanchez,Logan,2805,Braddock Rd,Alexandria,VA,22030,394087012,MIS
+G59710652,Clark,Quinn,3209,George Mason Blvd,Arlington,VA,22201,897619926,MIS
+G33224179,Martinez,Sydney,1334,Braddock Rd,Alexandria,VA,22201,421544837,CHEM
+G46213529,Sanchez,Jordan,8917,University Dr,Arlington,VA,22030,357449043,ECON
+G40747973,Young,Cameron,9609,University Dr,Arlington,VA,22314,003573638,CSCI
+G58814741,Hernandez,Devon,7833,University Dr,Arlington,VA,22030,555056823,PSYC
+G31328305,Hill,Harlow,8528,George Mason Blvd,Arlington,VA,22314,698351870,CHEM
+G50026098,Young,Sydney,1612,George Mason Blvd,Alexandria,VA,22030,503741520,MATH
+G83230362,Green,Jamie,7420,George Mason Blvd,Arlington,VA,22201,545350231,BIOL
+G63370161,Moore,Kendall,5384,University Dr,Alexandria,VA,22314,256178460,SOCY
+G54924729,Adams,Teagan,222,Patriot Cir,Alexandria,VA,22314,760278365,CSCI
+G13513078,Phillips,Parker,2464,Braddock Rd,Fairfax,VA,22201,514261763,BIOL
+G90823363,Walker,Aidan,7924,Braddock Rd,Fairfax,VA,22314,063003099,ANTH
+G93400060,Thompson,Riley,4186,Patriot Cir,Alexandria,VA,22201,920645077,CHEM
+G16599792,Lee,Quinn,3218,Patriot Cir,Fairfax,VA,22030,657963705,ANTH
+G25327600,Sanchez,Hayden,6519,University Dr,Alexandria,VA,22314,285206714,MIS
+G28606772,Robinson,Cameron,5937,University Dr,Alexandria,VA,22030,729212332,CHEM
+G85923989,King,Jesse,5663,University Dr,Fairfax,VA,22314,884336489,MATH
+G77751163,King,Blake,8446,Braddock Rd,Fairfax,VA,22030,841918040,ECON
+G83646239,Torres,Hayden,9563,Braddock Rd,Fairfax,VA,22314,958453797,BIOL
+G82662278,Scott,Parker,4475,University Dr,Arlington,VA,22030,868598388,SOCY
+G90724483,Roberts,Harlow,1883,Patriot Cir,Arlington,VA,22314,919914304,MIS
+G93029420,Young,Juniper,1874,Braddock Rd,Fairfax,VA,22030,857291853,PSYC
+G15023925,Thompson,Aidan,9675,Patriot Cir,Alexandria,VA,22201,920358195,ECON
+G76730707,Turner,Brooke,3853,Braddock Rd,Fairfax,VA,22030,505713373,ECON

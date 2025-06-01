@@ -1,0 +1,101 @@
+Subject_Code,Course_Number,Course_Name,Description,Credit_Hours,DEPT_CODE
+ACCT,303,Accounting for Decision Making,Accounting for Decision Making,3,ACCT
+ACCT,461,Assurance and Audit Services,Assurance and Audit Services,3,ACCT
+ACCT,320,Advanced Financial Accounting,Advanced Financial Accounting,3,ACCT
+ACCT,410,Auditing and Corporate Responsibility,Auditing and Corporate Responsibility,3,ACCT
+ACCT,350,Government and Nonprofit Accounting,Government and Nonprofit Accounting,3,ACCT
+ACCT,500,Special Topics in ACCT,Special Topics in ACCT,3,ACCT
+ACCT,501,Advanced Topics in ACCT,Advanced Topics in ACCT,3,ACCT
+ACCT,502,Seminar in ACCT,Seminar in ACCT,3,ACCT
+ACCT,503,Independent Study in ACCT,Independent Study in ACCT,3,ACCT
+ACCT,504,Internship in ACCT,Internship in ACCT,3,ACCT
+ANTH,200,Cultural Anthropology,Cultural Anthropology,3,ANTH
+ANTH,250,Archaeological Methods,Archaeological Methods,3,ANTH
+ANTH,300,Medical Anthropology,Medical Anthropology,3,ANTH
+ANTH,350,Anthropology of Religion,Anthropology of Religion,3,ANTH
+ANTH,360,Anthropology of Food,Anthropology of Food,3,ANTH
+ANTH,500,Special Topics in ANTH,Special Topics in ANTH,3,ANTH
+ANTH,501,Advanced Topics in ANTH,Advanced Topics in ANTH,3,ANTH
+ANTH,502,Seminar in ANTH,Seminar in ANTH,3,ANTH
+ANTH,503,Independent Study in ANTH,Independent Study in ANTH,3,ANTH
+ANTH,504,Internship in ANTH,Internship in ANTH,3,ANTH
+BIOL,417,Data Science for Biologists,Data Science for Biologists,3,BIOL
+BIOL,533,Advanced Plant Taxonomy,Advanced Plant Taxonomy,3,BIOL
+BIOL,441,Protist Diversity and Ecology,Protist Diversity and Ecology,3,BIOL
+BIOL,419,Marine Mammal Biology and Conservation,Marine Mammal Biology and Conservation,3,BIOL
+BIOL,301,Biochemistry,Biochemistry,3,BIOL
+BIOL,500,Special Topics in BIOL,Special Topics in BIOL,3,BIOL
+BIOL,501,Advanced Topics in BIOL,Advanced Topics in BIOL,3,BIOL
+BIOL,502,Seminar in BIOL,Seminar in BIOL,3,BIOL
+BIOL,503,Independent Study in BIOL,Independent Study in BIOL,3,BIOL
+BIOL,504,Internship in BIOL,Internship in BIOL,3,BIOL
+CHEM,211,Organic Chemistry I,Organic Chemistry I,3,CHEM
+CHEM,212,Organic Chemistry II,Organic Chemistry II,3,CHEM
+CHEM,380,Analytical Chemistry,Analytical Chemistry,3,CHEM
+CHEM,310,Physical Chemistry,Physical Chemistry,3,CHEM
+CHEM,321,Introduction to Biochemistry,Introduction to Biochemistry,3,CHEM
+CHEM,500,Special Topics in CHEM,Special Topics in CHEM,3,CHEM
+CHEM,501,Advanced Topics in CHEM,Advanced Topics in CHEM,3,CHEM
+CHEM,502,Seminar in CHEM,Seminar in CHEM,3,CHEM
+CHEM,503,Independent Study in CHEM,Independent Study in CHEM,3,CHEM
+CHEM,504,Internship in CHEM,Internship in CHEM,3,CHEM
+CSCI,110,Introduction to Computer Science,Introduction to Computer Science,3,CSCI
+CSCI,235,Data Structures,Data Structures,3,CSCI
+CSCI,320,Database Systems,Database Systems,3,CSCI
+CSCI,360,Software Engineering,Software Engineering,3,CSCI
+CSCI,430,Operating Systems,Operating Systems,3,CSCI
+CSCI,500,Special Topics in CSCI,Special Topics in CSCI,3,CSCI
+CSCI,501,Advanced Topics in CSCI,Advanced Topics in CSCI,3,CSCI
+CSCI,502,Seminar in CSCI,Seminar in CSCI,3,CSCI
+CSCI,503,Independent Study in CSCI,Independent Study in CSCI,3,CSCI
+CSCI,504,Internship in CSCI,Internship in CSCI,3,CSCI
+ECON,103,Principles of Macroeconomics,Principles of Macroeconomics,3,ECON
+ECON,104,Principles of Microeconomics,Principles of Microeconomics,3,ECON
+ECON,320,International Trade,International Trade,3,ECON
+ECON,345,Econometrics,Econometrics,3,ECON
+ECON,410,Financial Economics,Financial Economics,3,ECON
+ECON,500,Special Topics in ECON,Special Topics in ECON,3,ECON
+ECON,501,Advanced Topics in ECON,Advanced Topics in ECON,3,ECON
+ECON,502,Seminar in ECON,Seminar in ECON,3,ECON
+ECON,503,Independent Study in ECON,Independent Study in ECON,3,ECON
+ECON,504,Internship in ECON,Internship in ECON,3,ECON
+MIS,330,Systems Analysis and Design,Systems Analysis and Design,3,MIS
+MIS,350,Database Management Systems,Database Management Systems,3,MIS
+MIS,321,Data Analytics Tools,Data Analytics Tools,3,MIS
+MIS,415,Information Systems Project Management,Information Systems Project Management,3,MIS
+MIS,425,Business Analytics I,Business Analytics I,3,MIS
+MIS,500,Special Topics in MIS,Special Topics in MIS,3,MIS
+MIS,501,Advanced Topics in MIS,Advanced Topics in MIS,3,MIS
+MIS,502,Seminar in MIS,Seminar in MIS,3,MIS
+MIS,503,Independent Study in MIS,Independent Study in MIS,3,MIS
+MIS,504,Internship in MIS,Internship in MIS,3,MIS
+MATH,405,Honors Thesis in Mathematics I,Honors Thesis in Mathematics I,3,MATH
+MATH,406,Honors Thesis in Mathematics II,Honors Thesis in Mathematics II,3,MATH
+MATH,240,Linear Algebra,Linear Algebra,3,MATH
+MATH,241,Calculus III,Calculus III,3,MATH
+MATH,250,Probability and Statistics,Probability and Statistics,3,MATH
+MATH,500,Special Topics in MATH,Special Topics in MATH,3,MATH
+MATH,501,Advanced Topics in MATH,Advanced Topics in MATH,3,MATH
+MATH,502,Seminar in MATH,Seminar in MATH,3,MATH
+MATH,503,Independent Study in MATH,Independent Study in MATH,3,MATH
+MATH,504,Internship in MATH,Internship in MATH,3,MATH
+PSYC,301,Research Methods in Psychology,Research Methods in Psychology,3,PSYC
+PSYC,373,Biopsychology Lab,Biopsychology Lab,1,PSYC
+PSYC,405,"Mystery, Madness, and Murder","Mystery, Madness, and Murder",3,PSYC
+PSYC,320,Social and Personality Psychology,Social and Personality Psychology,3,PSYC
+PSYC,330,Cognitive Psychology,Cognitive Psychology,3,PSYC
+PSYC,500,Special Topics in PSYC,Special Topics in PSYC,3,PSYC
+PSYC,501,Advanced Topics in PSYC,Advanced Topics in PSYC,3,PSYC
+PSYC,502,Seminar in PSYC,Seminar in PSYC,3,PSYC
+PSYC,503,Independent Study in PSYC,Independent Study in PSYC,3,PSYC
+PSYC,504,Internship in PSYC,Internship in PSYC,3,PSYC
+SOCY,305,Urban Sociology,Urban Sociology,3,SOCY
+SOCY,310,Social Stratification,Social Stratification,3,SOCY
+SOCY,340,"Power, Politics and Society","Power, Politics and Society",3,SOCY
+SOCY,360,Sociology of Culture,Sociology of Culture,3,SOCY
+SOCY,712,Contemporary Sociological Theory,Contemporary Sociological Theory,3,SOCY
+SOCY,500,Special Topics in SOCY,Special Topics in SOCY,3,SOCY
+SOCY,501,Advanced Topics in SOCY,Advanced Topics in SOCY,3,SOCY
+SOCY,502,Seminar in SOCY,Seminar in SOCY,3,SOCY
+SOCY,503,Independent Study in SOCY,Independent Study in SOCY,3,SOCY
+SOCY,504,Internship in SOCY,Internship in SOCY,3,SOCY
