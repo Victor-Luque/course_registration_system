@@ -39,6 +39,10 @@ This project implements a relational database system for a fictional university 
 - T-SQL (DDL, DML)
 - CSV data loading via BULK INSERT
 
+## Acknowledgments
+
+This project was developed as a group assignment for an academic course. All members of the team contributed to the schema design, SQL scripting.
+
 ## License
 
 This project is for educational use. No real data is included.
